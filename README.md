@@ -19,7 +19,7 @@ We are second year CS/CE undergraduates working with Professor Tim Sherwood in t
 
 ## Weekly Meeting Times
 
-* Research Group Meeting Times: TBD
+* Research Group Meeting Times: Wednesday 1-3 pm
 * Meeting with Research Mentor: TBD
 * Meeting with ERSP Grad Mentor (May):
 * Meeting with Dr. Mirza:
@@ -32,7 +32,7 @@ All our project documents are available in the following private repositories. I
 * [Dawit's log](https://github.com/ucsb-ersp-2018/arch-dawit-log.git)
 * [Dylan's log](https://github.com/ucsb-ersp-2018/arch-dylan-log.git)
 * [Jacqui's log](https://github.com/ucsb-ersp-2018/arch-jacqui-log.git)
-* [Maggie's log](https://github.com/ucsb-ersp-2018/arch-maggie-log.git)
+* [Maggie's log](https://github.com/ucsb-ersp-2018/arch-maggiel-research-log.git)
 
 ### Group Log
 
